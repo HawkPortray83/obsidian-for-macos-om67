@@ -1,4 +1,4 @@
-#  
+#  advanced Obsidian for macOS Plugin | note encryption + tags offers the most advanced Obsidian for macOS plugin, with note encryption and tags. Ideal for professionals.
 
 
 
